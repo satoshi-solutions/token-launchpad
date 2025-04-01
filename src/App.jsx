@@ -1,4 +1,4 @@
-import LandingPage from './components/landingPage';
+import LandingPage from './components/LandingPage';
 import Header from './components/Header';
 import { useState, useEffect } from 'react';
 
